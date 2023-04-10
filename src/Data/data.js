@@ -7,7 +7,7 @@ import chickenSoup from "../images/chickenSoup.svg";
 export const AvailableMeals = [
   {
     id: "1",
-    MealName: "Beef Burger",
+    MealName: "Chicken Burger",
     MealDescription: "The in-house pasta and chicken by chef Moose",
     MealPrice:  100.00,
     MealImage: burger,
